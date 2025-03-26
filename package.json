@@ -1,0 +1,22 @@
+{
+  "name": "blog.codethatworks.io",
+  "version": "1.0.0",
+  "description": "The official blog of codethatworks.io",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve -p 4000 ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeThatWorksIO/blog.codethatworks.io.git"
+  },
+  "author": "Michael Campo",
+  "license": "Public Domain",
+  "bugs": {
+    "url": "https://github.com/CodeThatWorksIO/blog.codethatworks.io/issues"
+  },
+  "homepage": "https://github.com/CodeThatWorksIO/blog.codethatworks.io#readme",
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
